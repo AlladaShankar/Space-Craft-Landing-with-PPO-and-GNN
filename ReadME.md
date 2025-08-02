@@ -3,7 +3,7 @@
 ## Model Performance video
 
 
-![Space Craft Demo](./Lunar_Landing_Using_GNN_Policy.gif)
+![Space Craft Demo](./Space_Craft_Landing_Using_GNN_Policy.gif)
 
 ## Overview
 This project explores different deep reinforcement learning architectures for solving the Lunar Lander problem. The primary focus is on comparing:
